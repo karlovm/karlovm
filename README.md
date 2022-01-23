@@ -1,4 +1,24 @@
-### Hi there 👋
+## Привет, i'm Mikhail Karlov
+
+I am a Java developer and Bukkit plugins coder.<br>
+See my pinned repositories to browse my opensource projects.
+
+### My activity
+<div>  
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=karlovm&show_icons=true&hide_border=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlovm&hide_border=true&theme=nord&langs_count=5"/>
+</div>
+
+### Learned Libraries and Frameworks
+| Name | Level | Description |
+|:---:|:---:|---|
+| [Android SDK](https://developer.android.com/) | High | Java Android developer |
+| Telegram/VK Bots API | High |  |
+| [Spigot API](https://hub.spigotmc.org/javadocs/spigot/index.html) | High | API of the Minecraft server software based on Bukkit |
+| Spring | Low | Backend Java framework |
+
+
+
 
 <!--
 **karlovm/karlovm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
