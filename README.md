@@ -14,8 +14,8 @@ See my pinned repositories to browse my opensource projects.
 |:---:|:---:|---|
 | [Android SDK](https://developer.android.com/) | High | Java Android developer |
 | Telegram/VK Bots API | High |  |
+| Spring | Mid | Backend Java framework |
 | [Spigot API](https://hub.spigotmc.org/javadocs/spigot/index.html) | High | API of the Minecraft server software based on Bukkit |
-| Spring | Low | Backend Java framework |
 
 
 
